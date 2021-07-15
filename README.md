@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishpradhan01
 - 👀 I’m interested in Software development/Self driving car 
-- 🌱 I’m always learning new techniques or procedures 
+- 🌱 I’m always learning new techniques and procedures 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - type ashpradhan01 on google, first two links are mine.
 
