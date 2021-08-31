@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashishpradhan01
-- 👀 I’m interested in Software development/Self driving car 
+- 👀 I’m interested in Software development Engineer /Self driving car 
 - 🌱 I’m always learning new techniques and procedures 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - type ashpradhan01 on google, first two links are mine.
+- 📫 How to reach me - ashishpradhan892@gmail.com
 
 <!---
 ashishpradhan01/ashishpradhan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
