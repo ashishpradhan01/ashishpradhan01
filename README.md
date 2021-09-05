@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashishpradhan01
-- 👀 I’m interested in Software development Engineer /Self driving car 
+- 👀 I’m interested in Software Development Engineer /Self Driving Car 
 - 🌱 I’m always learning new techniques and procedures 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - ashishpradhan892@gmail.com
