@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpradhan01&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpradhan01" /> </p>
 
 
-- 🔭 I’m currently working on [Raise News](https://github.com/ashishpradhan01/RiseNews-MVVM-App/tree/handling-breaking-news-response)
+- 🔭 I’m currently working on [Canteen Desk Management](https://github.com/ashishpradhan01/Canteen-Desk-Management)
 
 - 🌱 I’m currently learning **Rxjava, Ktor, JetpackCompose**
 
