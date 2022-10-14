@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpradhan01&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpradhan01" /> </p>
 
 
-- 🌱 I’m currently learning **Rxjava, Ktor, JetpackCompose**
+- 🌱 I’m currently learning **MERN, RxKotlin**
 
-- 💬 Ask me about **Android, Kotlin, Python, Django**
+- 💬 Ask me about **Android, Kotlin, Python, Django, Web Technologies**
 
 - 📫 How to reach me **ashishpradhan892@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_kKQzZayiXoJX2WhJ1oTy-9EUjwzWz9u/view?usp=sharing)
 
-- ⚡ Interested in **ML, Self Driving Cars**
+- ⚡ Interested in **Web and Android development, SDC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
