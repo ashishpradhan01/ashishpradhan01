@@ -10,7 +10,7 @@
 
 - 📫 How to reach me  >> **[Ping me!](https://www.linkedin.com/in/ashish-pradhan-2b19b9152/)**
 
-- 📄 Know about my experiences [Resume - Coming soon!, Until then check my linkdin](#)
+- 📄 Know about my experiences [Resume - Coming soon!, until then you can check my linkedin](#)
 
 - ⚡ Interested in **Web and Android development, SDC**
 
