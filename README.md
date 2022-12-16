@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume - Coming soon!, until then you can check my linkedin](#)
 
-- ⚡ Interested in **Web and Android development, SDC**
+- ⚡ Interested in **Web, Android development and SDC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
