@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Android, Kotlin, Python, Django, Web Technologies**
 
-- 📫 How to reach me **ashishpradhan892@gmail.com**
+- 📫 How to reach me **[Ping me!](https://www.linkedin.com/in/ashish-pradhan-2b19b9152/)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_kKQzZayiXoJX2WhJ1oTy-9EUjwzWz9u/view?usp=sharing)
+- 📄 Know about my experiences [Resume - Coming soon!](#)
 
 - ⚡ Interested in **Web and Android development, SDC**
 
