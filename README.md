@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="35" height="35"/>, I'm Ashish Pradhan</h1>
-<h3 align="center">A passionate Web(MERN)/Android developer from India.</h3>
+<h3 align="center">A passionate Web & Android developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpradhan01&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpradhan01" /> </p>
 
