@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN, Java Full Stack**
 
-- 💬 Ask me about **Android, Kotlin, Python, Django, Web Technologies**
+- 💬 Ask me about **Android, Kotlin, Java8-11, Spring, SpringBoot**
 
 - 📫 How to reach me  >> **[Ping me!](https://www.linkedin.com/in/ashish-pradhan-2b19b9152/)**
 
