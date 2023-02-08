@@ -10,7 +10,7 @@
 
 - 📫 How to reach me  >> **[Ping me!](https://www.linkedin.com/in/ashishpradhan01/)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GSWEUBB6lieOCPw6gKWRh6kWnPt8hnzt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Qb3Ibtfn46X_qNv1uq24ovgdrQl2Esvu/view?usp=sharing)
 
 - ⚡ Interested in **Web, Android development and SDC**
 
