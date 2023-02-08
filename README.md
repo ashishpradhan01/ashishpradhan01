@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Android, Kotlin, Java8-11, Spring, SpringBoot**
 
-- 📫 How to reach me  >> **[Ping me!](https://www.linkedin.com/in/ashish-pradhan-2b19b9152/)**
+- 📫 How to reach me  >> **[Ping me!](https://www.linkedin.com/in/ashishpradhan01/)**
 
-- 📄 Know about my experiences [Resume - Coming soon!, until then you can check my linkedin](#)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GSWEUBB6lieOCPw6gKWRh6kWnPt8hnzt/view?usp=sharing)
 
 - ⚡ Interested in **Web, Android development and SDC**
 
