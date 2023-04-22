@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpradhan01&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpradhan01" /> </p>
 
 
-- 🌱 I’m currently learning **MERN, Java Full Stack**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 💬 Ask me about **Android, Kotlin, Java8-11, Spring, SpringBoot**
 
 - 📫 How to reach me  >> **[Ping me!](https://www.linkedin.com/in/ashishpradhan01/)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Qb3Ibtfn46X_qNv1uq24ovgdrQl2Esvu/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C9PujLTUfVt5SP15XgNe6l4WmDGT1zDD/view?usp=sharing)
 
 - ⚡ Interested in **Web, Android development and SDC**
 
